@@ -1,0 +1,3 @@
+Q1. what is the d/b while and if ?
+Ans. if will only check the condition 1's doesn't matter does the condition is true or false, it will only check it once
+     where as, while loop check the condition again and again, till the condition becomes false 
