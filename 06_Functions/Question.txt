@@ -1,0 +1,17 @@
+Ques1.> why we use return? can we not use console.log?
+Ans.>Because if we do return then we can store that value somewhere and use it in future,
+     but if we do console.log then it will only get printed on the screen we can't do anything with that value
+
+
+console.log returns the "undefined"
+for eg:
+let x = console.log("deep")
+console.log(x)
+//deep
+  undefined
+
+if we assign a log statement to a variable and then print it 
+then in the output we will get the log statement input and undefined thats why if we console log something on the browser then we seee a undefined also
+
+Ques2.> What if we don't return anything?
+Ans.> if we manually don't return anything then JS automatically returns Undefined
