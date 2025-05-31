@@ -1,0 +1,2 @@
+Ques1.> does strings are mutable or immuatable
+Ans.> strings are immutable they can't be change, if we do some operation on it then it will always create a new string
